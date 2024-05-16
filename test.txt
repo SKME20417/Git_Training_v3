@@ -1,2 +1,3 @@
 this is sample file
 these are the changes which i need to to do
+i am doing another changes
