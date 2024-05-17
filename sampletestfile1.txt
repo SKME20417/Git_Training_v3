@@ -3,3 +3,4 @@ we are cehcking merge commands in git and github and very soon i will be master 
 this is commparison
 this is urgebt fix done by me 
 i am halting/pausing my work temperiory or staching in file 1
+this is tracked file
