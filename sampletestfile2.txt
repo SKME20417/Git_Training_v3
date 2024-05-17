@@ -1,3 +1,4 @@
 this is sample file 2
 resvet get 2
 this is commmraison in file 2
+this is stach concept in git in file 2

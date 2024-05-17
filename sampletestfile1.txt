@@ -2,3 +2,4 @@ This is sample file 1
 we are cehcking merge commands in git and github and very soon i will be master in tech
 this is commparison
 this is urgebt fix done by me 
+i am halting/pausing my work temperiory or staching in file 1
